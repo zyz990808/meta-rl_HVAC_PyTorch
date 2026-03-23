@@ -79,7 +79,7 @@ The indoor temperature stays within the comfort range and remains stable.
 
 Numerical Results:
 
-![Numerical Results](./numeric_results.png)
+![Numeric Results](./numeric_results.png)
 
 Control Performance:
 
